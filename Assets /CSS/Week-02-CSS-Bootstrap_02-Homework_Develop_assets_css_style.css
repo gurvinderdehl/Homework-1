@@ -51,7 +51,7 @@ p {
 }
 
 .hero {
-    height: 800px;
+    height: 10px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
@@ -122,10 +122,15 @@ p {
     max-width: 150px;
 }
 
+
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+.meeting {
+    width: 100%;
 }
 
 .benefit-cost img {
@@ -133,6 +138,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -169,9 +175,12 @@ p {
     max-height: 200px;
 }
 
+
+
 .social-media-marketing img {
     max-height: 200px;
 }
+
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
