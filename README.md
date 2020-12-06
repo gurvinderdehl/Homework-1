@@ -1,6 +1,6 @@
 # Homework-1-What-We-Know-So-Far
 # Introduction
-
+I have been given the opportunity to refactor some code, so that accessibility standards are met and the site for Horiseon works. Below is some more information of what I experienced in carrying out this task.
 ## Why did I do this?
 The homework was to use all the skills we have picked up so far to refactor the code of the Horiseon website. The reason for this was to meet the neccessary accessibility standards. In order for me to do this I had to use HTML and CSS, the code was refactored so that it worked, examples of what was done are : Semantic elements were implemented in the code so that it made more sense. The order of elements followed a logical structure independent of styling and positioning, as per the acceptance criteria. 
 ### What I learnt
@@ -13,4 +13,4 @@ I would do well to remember the different elements, which go together to success
 ![Screenshot #2](/Assets/Images/Screenshot 2020-12-06 at 22.58.10.png")
 ![Screenshot #3](Assets/Images/Screenshot 2020-12-06 at 22.58.18.png")
 
-https://mydryday.github.io/UoB_BC_Horiseon_Code_Refactor/
+ https://gurvinderdehl.github.io/Homework-1-What-We-Know-So-Far/
